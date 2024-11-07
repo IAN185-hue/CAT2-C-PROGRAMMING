@@ -8,7 +8,7 @@ TOPIC: A 2D ARRAY PROGRAM
 int main(){
 	//DEFINING AND INITIALIZING A TWO DIMENSIONAL ARRAY KNOWN AS SCORES
 	
-	int scores[2][2]={{65,92,35,70},{84,72,59,67}};
+	int scores[2][2]={{65,92},{84,72}};
 	//Declaring the data types
 	int i,j;
 	//for loop for printing out the row
